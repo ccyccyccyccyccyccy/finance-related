@@ -3,3 +3,5 @@ Users can :
 - select relevant sectors
 - visualize the relative contribution of EBITDA of the sectors as a pie chart
 - download the original data source
+
+Built with Flask and Dash 
